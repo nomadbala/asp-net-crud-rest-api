@@ -1,0 +1,15 @@
+C:\Users\sayat\RiderProjects\BookStore.API\BookStore.Application\bin\Debug\net8.0\BookStore.Application.deps.json
+C:\Users\sayat\RiderProjects\BookStore.API\BookStore.Application\bin\Debug\net8.0\BookStore.Application.dll
+C:\Users\sayat\RiderProjects\BookStore.API\BookStore.Application\bin\Debug\net8.0\BookStore.Application.pdb
+C:\Users\sayat\RiderProjects\BookStore.API\BookStore.Application\bin\Debug\net8.0\BookStore.Core.dll
+C:\Users\sayat\RiderProjects\BookStore.API\BookStore.Application\bin\Debug\net8.0\BookStore.Core.pdb
+C:\Users\sayat\RiderProjects\BookStore.API\BookStore.Application\obj\Debug\net8.0\BookStore.Application.csproj.AssemblyReference.cache
+C:\Users\sayat\RiderProjects\BookStore.API\BookStore.Application\obj\Debug\net8.0\BookStore.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sayat\RiderProjects\BookStore.API\BookStore.Application\obj\Debug\net8.0\BookStore.Application.AssemblyInfoInputs.cache
+C:\Users\sayat\RiderProjects\BookStore.API\BookStore.Application\obj\Debug\net8.0\BookStore.Application.AssemblyInfo.cs
+C:\Users\sayat\RiderProjects\BookStore.API\BookStore.Application\obj\Debug\net8.0\BookStore.Application.csproj.CoreCompileInputs.cache
+C:\Users\sayat\RiderProjects\BookStore.API\BookStore.Application\obj\Debug\net8.0\BookStore.Application.csproj.CopyComplete
+C:\Users\sayat\RiderProjects\BookStore.API\BookStore.Application\obj\Debug\net8.0\BookStore.Application.dll
+C:\Users\sayat\RiderProjects\BookStore.API\BookStore.Application\obj\Debug\net8.0\refint\BookStore.Application.dll
+C:\Users\sayat\RiderProjects\BookStore.API\BookStore.Application\obj\Debug\net8.0\BookStore.Application.pdb
+C:\Users\sayat\RiderProjects\BookStore.API\BookStore.Application\obj\Debug\net8.0\ref\BookStore.Application.dll

@@ -1,0 +1,17 @@
+C:\Users\sayat\RiderProjects\BookStore.API\BookStore.DataAccess\bin\Debug\net8.0\BookStore.DataAccess.deps.json
+C:\Users\sayat\RiderProjects\BookStore.API\BookStore.DataAccess\bin\Debug\net8.0\BookStore.DataAccess.runtimeconfig.json
+C:\Users\sayat\RiderProjects\BookStore.API\BookStore.DataAccess\bin\Debug\net8.0\BookStore.DataAccess.dll
+C:\Users\sayat\RiderProjects\BookStore.API\BookStore.DataAccess\bin\Debug\net8.0\BookStore.DataAccess.pdb
+C:\Users\sayat\RiderProjects\BookStore.API\BookStore.DataAccess\bin\Debug\net8.0\BookStore.Core.dll
+C:\Users\sayat\RiderProjects\BookStore.API\BookStore.DataAccess\bin\Debug\net8.0\BookStore.Core.pdb
+C:\Users\sayat\RiderProjects\BookStore.API\BookStore.DataAccess\obj\Debug\net8.0\BookStore.DataAccess.csproj.AssemblyReference.cache
+C:\Users\sayat\RiderProjects\BookStore.API\BookStore.DataAccess\obj\Debug\net8.0\BookStore.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sayat\RiderProjects\BookStore.API\BookStore.DataAccess\obj\Debug\net8.0\BookStore.DataAccess.AssemblyInfoInputs.cache
+C:\Users\sayat\RiderProjects\BookStore.API\BookStore.DataAccess\obj\Debug\net8.0\BookStore.DataAccess.AssemblyInfo.cs
+C:\Users\sayat\RiderProjects\BookStore.API\BookStore.DataAccess\obj\Debug\net8.0\BookStore.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\sayat\RiderProjects\BookStore.API\BookStore.DataAccess\obj\Debug\net8.0\BookStore.DataAccess.csproj.CopyComplete
+C:\Users\sayat\RiderProjects\BookStore.API\BookStore.DataAccess\obj\Debug\net8.0\BookStore.DataAccess.dll
+C:\Users\sayat\RiderProjects\BookStore.API\BookStore.DataAccess\obj\Debug\net8.0\refint\BookStore.DataAccess.dll
+C:\Users\sayat\RiderProjects\BookStore.API\BookStore.DataAccess\obj\Debug\net8.0\BookStore.DataAccess.pdb
+C:\Users\sayat\RiderProjects\BookStore.API\BookStore.DataAccess\obj\Debug\net8.0\BookStore.DataAccess.genruntimeconfig.cache
+C:\Users\sayat\RiderProjects\BookStore.API\BookStore.DataAccess\obj\Debug\net8.0\ref\BookStore.DataAccess.dll
